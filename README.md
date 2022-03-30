@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dodokidpoop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...coding and cracking security
+- 🌱 I’m currently learning ... just doin junior collage 
+- 💞️ I’m looking to collaborate on ...IDK
 - 📫 How to reach me ... by github 
 - I AM A KID u just teach me new thing 
 - i am eager to learn
